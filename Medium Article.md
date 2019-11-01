@@ -1,10 +1,10 @@
-Deep Learning, and How Everything I thought I Knew Was Wrong
+                                 Deep Learning, and How Everything I thought I Knew Was Wrong
 
 ![](media/39ffa5414fa6a27edcc2815db4448c08.png)
 
 Matthew MacDonald, December 26, 2018
 
-Preconceptions
+                                                                               Preconceptions
 
 A few days ago, I would have told you that deep learning and machine learning
 were identical. I wouldn’t have even needed a Google search to say that. But
